@@ -13,7 +13,7 @@ def update_counting_hash(hash, key)
   else
     hash[key] = l
   end
-  
+  hash
 end
   
  
